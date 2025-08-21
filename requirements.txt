@@ -24,3 +24,11 @@ python-dotenv
 # Machine Learning Utilities
 numpy
 scikit-learn
+
+# Vector stores and transcripts
+langchain-community
+faiss-cpu
+youtube-transcript-api
+
+# Web UI
+streamlit
