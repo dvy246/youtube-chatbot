@@ -6,7 +6,7 @@ Run a YouTube transcript-grounded QA chatbot powered by Gemini.
 
 ### Prerequisites
 - Python 3.10+
-- Google AI Studio API key with access to Gemini models
+- Mistral Ai is used so get ur api key
 
 ### Setup
 1. Create and activate a virtualenv (optional but recommended).
@@ -16,8 +16,8 @@ Run a YouTube transcript-grounded QA chatbot powered by Gemini.
    ```
 3. Set your environment variable in a `.env` file (same directory) or via shell:
    ```bash
-   echo "GOOGLE_API=your_api_key_here" > .env
-   # or export GOOGLE_API=your_api_key_here
+   echo "mistral_ai=your_api_key_here" > .env
+   # or export mistral_ai=your_api_key_here
    ```
 
 ### Run
